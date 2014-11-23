@@ -13,4 +13,6 @@ function start() {
   console.log("Server has started.");
 }
 
-exports.start = start;
+start();
+
+//exports.start = start;
